@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"reflect"
 
-	"github.com/floshodan/hrobot-go/hrobot/schema"
+	"github.com/themoriarti/hrobot-go/hrobot/schema"
 	"github.com/google/go-querystring/query"
 )
 

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/floshodan/hrobot-go/hrobot"
+	"github.com/themoriarti/hrobot-go/hrobot"
 )
 
 func main() {

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/floshodan/hrobot-go/hrobot/schema"
+	"github.com/themoriarti/hrobot-go/hrobot/schema"
 )
 
 type RDNSClient struct {
